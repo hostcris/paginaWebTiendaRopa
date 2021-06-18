@@ -1,0 +1,43 @@
+Informacion recolectada para la pagina web
+10 Cintas de cambio
+3 Eventos
+
+----PAGINA INICIAL Y SUBPAGINAS
+
+-Home
+Fotos
+Eventos
+
+-Eventos 
+Flyer
+informacion
+
+-Agradecimientos
+Informacion
+
+-Quienes Somos
+
+-Linaje
+
+-Estructura Jerarguica
+
+-Reglamento
+
+-Contactanos
+
+-Footer
+informacion
+direccion Valle de San diego
+Facebook https://www.facebook.com/Club-Tae-Kwon-Do-Valle-de-San-Diego-178226509012285/about/?ref=page_internal
+Telefono 0424-4942340
+
+
+-----INFO DE DISEÑO
+Fuente 
+predeterminada Bootstrap
+
+Colores
+Negro #303030
+Amarillo #F1E51D
+Azul #1D6AF1
+Rojo #D32E2E

@@ -1,0 +1,95 @@
+/*RESET*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*GENERAL*/
+#header{
+    box-shadow: 10px 10px 30px white;
+}
+
+#caja-header{
+    background-color: rgba(255,255,255,0.5);
+    width: 100%;
+}
+
+#footer{
+    background-color: #000000;
+    color: white;
+}
+
+#img-scroll{
+    background-image: url("Fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+/*GENERAL HOVERS*/
+
+#text-yellow{
+    transition: 0.2s ease-in-out;
+}
+
+#text-yellow:hover{
+    color: #F1E51D;
+}
+
+#text-blue{
+    transition: 0.2s ease-in-out;
+}
+
+#text-blue:hover{
+    color: #1D6AF1;
+}
+
+#text-red{
+    transition: 0.2s ease-in-out;
+}
+
+#text-red:hover{
+    color: #D32E2E;
+}
+
+.text-color-white{
+    color: white;
+}
+
+.text-color-yellow{
+    color: #F1E51D;
+}
+
+.text-color-blue{
+    color: #1D6AF1;
+}
+
+.text-color-red{
+    color: #D32E2E;
+}
+
+.text-color-menta{
+    color: #1FC38A;
+}
+
+.h-scale{
+    transition: 0.5s ease-in-out;
+}
+
+.h-scale:hover{
+    transform: scale(1.1);
+}
+
+/*VERSION DE PC*/
+@media (min-width: 992px) { 
+    .ocultarpc{
+        display: none;
+    }
+}
+/*VERSION DE TELEFONO*/
+@media (max-width: 992px) { 
+    .ocultartlf{
+        display: none;
+    }
+}
